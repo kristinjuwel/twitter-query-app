@@ -7,13 +7,16 @@
 ![image](https://github.com/kristinjuwel/twitter-query-app/assets/145471931/5e2eaa65-3b61-4134-a5cf-90bcc7c48dee)
 
 3. Download and install Kivy and KivyBuilder in the terminal/command prompt. Open the terminal and type the following:
+   
      python -m pip install "kivy[base] @ https://github.com/kivy/kivy/archive/master.zip"
       ![image](https://github.com/kristinjuwel/twitter-query-app/assets/145471931/c9808c74-f2fa-4749-bfba-1ce5d19528df)
      
      pip install --upgrade pip setuptools wheel
+   
      ![image](https://github.com/kristinjuwel/twitter-query-app/assets/145471931/0b6a9607-f98b-4785-830a-092d22d050f1)
      
      pip install kivymd
+   
      ![image](https://github.com/kristinjuwel/twitter-query-app/assets/145471931/a8476b8c-a04f-4a2a-8b37-f18ce2348881)
 
 
